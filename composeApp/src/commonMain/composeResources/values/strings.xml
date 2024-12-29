@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+    <string name="app_name">ComposeApp</string>
+    <string name="search_hint">Enter name of book</string>
+    <string name="close_hint">Close search</string>
+    <string name="search_results">Search Results</string>
+    <string name="favorites">Favorites</string>
+    <string name="no_search_result">Oops, there are no books</string>
+</resources>
